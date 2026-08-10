@@ -17,8 +17,8 @@ The application allows users to create projects, manage tasks, track task status
 - 👤 User and project ownership
 - 🔒 Password hashing
 - 📧 Email functionality
-- 🗄️ MySQL / MariaDB database integration
-- 📱 Responsive frontend
+- 🗄️ MySQL database integration
+- 📱 Responsive desing
 
 ## 👾 Technologies
 
@@ -44,7 +44,6 @@ These credentials are available for testing the live application.
 
 ## 🧑‍💻 Author
 
-**Michael Acosta**
-**LinkedIn:** 
+**Michael Acosta**]
 
 🔗 [LinkedIn](https://www.linkedin.com/in/michael-acosta-dev/)
