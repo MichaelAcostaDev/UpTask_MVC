@@ -44,6 +44,6 @@ These credentials are available for testing the live application.
 
 ## 🧑‍💻 Author
 
-**Michael Acosta**]
+**Michael Acosta**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/michael-acosta-dev/)
